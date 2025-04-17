@@ -30,6 +30,7 @@ STEP 5:
 Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented
 
 # PROGRAM:
+```
 import random
 
 class HealthMonitoringAgent:
@@ -76,9 +77,10 @@ if _name_ == "_main_":
   health_monitoring_agent.sensors = health_sensors
   health_monitoring_agent.actuators = health_actuators
   health_monitoring_agent.monitor_health()
+  ```
 # OUTPUT:
 ![image](https://github.com/user-attachments/assets/e359570b-9540-470d-982e-bf46f36132b8)
 
 
-RESULT:
+# RESULT:
 Thus, the code to develop an AI agent has been created successfully.
